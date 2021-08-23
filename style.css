@@ -1,0 +1,70 @@
+/* First try css*/  
+
+/*TAGS */
+h1{       
+    text-align:center;
+    color: white;
+    font-size: 70px;
+    margin: 50px;
+    padding: 20px 0px 0px 0px;
+    text-shadow:1px 1px 20px #111111;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+body{    
+    text-shadow:1px 1px 20px #111111;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{        
+    color:red;
+  font-size: 50px;
+    margin: 60px;
+    padding: 30px;
+}
+footer{
+    text-shadow: 1px 1px 20px #111111;
+    font-size: 20px;
+    clear: both;
+    margin: 400px;
+    padding: 40px;
+    text-align:center;
+}
+img{
+    border-radius: 20px;
+}
+/*IDs */
+#div-esquerda{
+    background-color: rgba(241,180,94,0.90);
+    width: 40%;
+    float: left;
+    margin: 30px;
+    padding: 80px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #111111;
+}
+#div-direita{
+    float: right;
+    background-color: rgba(241,180,94,0.90);
+    width: 60%;
+    margin: 30px;
+    padding: 80px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #111111;
+} 
+#Principal{
+    background-image: url(Fundorestaurante.png);
+}
+/*CLass */
+.container{
+    width: 1600px;
+    margin: auto;
+    padding: 10px;
+}
+.efeitos{ 
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0px 25px 0px 25px;
+}
