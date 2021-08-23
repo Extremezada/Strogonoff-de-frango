@@ -1,1 +1,1 @@
-# receitinha básica de strognoff
+# Receitinha básica de strognoff!
